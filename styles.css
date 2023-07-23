@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif; /* Setting the font family for the entire page */
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff; /* Styling the header section */
+    text-align: center;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px; /* Adding padding to the main content area */
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px; /* Styling the heading elements */
+  }
+  
+  ul {
+    list-style: none; /* Removing default list styles */
+    padding: 0; /* Removing padding from the unordered list */
+  }
+  
+  li {
+    margin-bottom: 10px; /* Adding margin between list items */
+    cursor: pointer; /* Changing cursor to pointer on hover */
+  }
+  
+  li:hover {
+    color: #007BFF; /* Changing text color on hover */
+  }
+  
